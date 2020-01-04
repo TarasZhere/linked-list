@@ -1,3 +1,4 @@
 # linked-list
 
-really easy linked list
+Really easy linked list.
+Using data struct.
